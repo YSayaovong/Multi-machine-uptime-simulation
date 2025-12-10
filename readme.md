@@ -57,16 +57,17 @@ After many runs, the simulator outputs:
 
 ---
 
-## 📊 Example Outputs
+## 📊 Outputs
 
 ### Line Throughput Distribution
-![Throughput Distribution](line_throughput_distribution.png)
+![Throughput Distribution](assets/line_throughput_distribution.png)
 
 ### Bottleneck Probability by Station
-![Bottleneck Probability](bottleneck_probability.png)
+![Bottleneck Probability](assets/bottleneck_probability.png)
 
 ### Average Downtime by Station
-![Station Downtime](station_downtime.png)
+![Station Downtime](assets/station_downtime.png)
+
 
 ---
 
